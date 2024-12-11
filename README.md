@@ -40,9 +40,6 @@ The School Management System is a web-based application built using the MERN (Mo
 
 # Installation
 
-```sh
-git 
-```
 Open 2 terminals in separate windows/tabs.
 
 Terminal 1: Setting Up Backend 
