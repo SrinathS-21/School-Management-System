@@ -2,7 +2,7 @@
     SCHOOL MANAGEMENT SYSTEM
 </h1>
 
-<h3 align="center">
+<h3 align="justify-center">
 Streamline school management, class organization, and add students and faculty.<br>
 Seamlessly track attendance, assess performance, and provide feedback. <br>
 Access records, view marks, and communicate effortlessly.
@@ -81,6 +81,4 @@ The problem here was that the .env file in the frontend was not working for othe
 So you have to do this in the frontend. After this the project will run smoothly if not then you can contact me.
 
 <br>
-
-AUTHOR - [JaganJavid] - [Instagram - @codejavid]
 
